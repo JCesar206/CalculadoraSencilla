@@ -10,4 +10,3 @@ Nota: Se usa para resolver las operaciones el operador eval( ) para simplicidad 
 Las operaciones no quedan almacenadas en ninguna parte ya que es sólo un proyecto sencillo de práctica para usar distintas tecnologias
 
 Gracias.
-:smile:
